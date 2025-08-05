@@ -106,3 +106,10 @@
 - 종교 문헌 내 감성분석(Sentiment Analysis) 및 주제 모델링
 
 ---
+
+<img width="950" height="507" alt="다운로드" src="https://github.com/user-attachments/assets/0078aa27-9567-48db-925b-9effe15f04cd" />
+
+<img width="1389" height="790" alt="다운로드 (1)" src="https://github.com/user-attachments/assets/2efbd885-cbc2-4d28-8b5b-d51dfac783cc" />
+
+<img width="2002" height="1128" alt="스크린샷 2025-08-05 174418" src="https://github.com/user-attachments/assets/5c70aaa2-0e57-4c94-b7f0-7eb9f9d1b083" />
+
