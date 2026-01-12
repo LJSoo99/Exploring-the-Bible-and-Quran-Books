@@ -1,3 +1,5 @@
+<img width="1207" height="378" alt="화면 캡처 2024-12-03 141600" src="https://github.com/user-attachments/assets/2c87b111-851c-4252-b247-1edea1f3faec" />
+
 # Exploring the Bible and Quran Books
 2024-2 Ajou Univ. Data Mining Project
 
